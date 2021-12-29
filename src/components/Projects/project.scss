@@ -1,0 +1,32 @@
+h1 {
+	align-items: center;
+	text-align: center;
+}
+
+.projects-main {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.projects i {
+	color: #a52a2a;
+	font-size: 30px;
+	padding: 0px 10px;
+	margin-top: 11px;
+}
+.projects i:hover {
+	color: #3d3d3d;
+}
+.projects p {
+	margin-top: 21px;
+	float: left;
+}
+.projects a {
+	float: none;
+	margin-left: 30px;
+}
+.projects li {
+	margin-top: 20px;
+	margin-left: 200px;
+}
